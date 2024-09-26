@@ -114,8 +114,8 @@ export const teachersData = [
   {
     id: 10,
     teacherId: "1234567890",
-    name: "John Glover",
-    email: "john@glover.com",
+    name: "AE Glover",
+    email: "AE@glover.com",
     photo:
       "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
@@ -237,8 +237,8 @@ export const studentsData = [
   {
     id: 10,
     studentId: "1234567890",
-    name: "John Glover",
-    email: "john@glover.com",
+    name: "AE Glover",
+    email: "AE@glover.com",
     photo:
       "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg?auto=compress&cs=tinysrgb&w=1200",
     phone: "1234567890",
@@ -323,7 +323,7 @@ export const parentsData = [
   },
   {
     id: 10,
-    name: "John Glover",
+    name: "AE Glover",
     students: ["Stella Scott"],
     email: "mike@geller.com",
     phone: "1234567890",
