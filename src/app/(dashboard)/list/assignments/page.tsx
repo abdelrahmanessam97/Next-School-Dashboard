@@ -32,10 +32,6 @@ const columns = [
     accessor: "dueDate",
     className: "hidden md:table-cell",
   },
-  {
-    header: "Actions",
-    accessor: "action",
-  },
 ];
 
 const AssignmentListPage = () => {

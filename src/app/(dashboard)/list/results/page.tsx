@@ -45,10 +45,6 @@ const columns = [
     accessor: "date",
     className: "hidden md:table-cell",
   },
-  {
-    header: "Actions",
-    accessor: "action",
-  },
 ];
 
 const ResultListPage = () => {
